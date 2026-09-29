@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cybersecurity Asset Inventory
 
 A command-line asset inventory for recording an organization's IT assets and reviewing their security risk. It supports adding, searching, updating, deleting, and displaying assets. Asset records are saved locally in JSON so they remain available after restarting the program.
@@ -36,3 +37,6 @@ The program reads and writes `data/assets.json`. Start with an empty JSON list (
 - Persist inventory changes in JSON
 
 See `tests/test_cases.md` for the assignment verification scenarios. Screenshots illustrating the required operations are stored in `screenshots/`.
+=======
+# WEEK_1_THARUN_111923CB01057
+>>>>>>> f72e1dcc18783a591289102be9adc0d050cb61e8
